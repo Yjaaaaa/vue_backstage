@@ -6,3 +6,51 @@ body,
   margin: 0;
   padding: 0;
 }  
+.el-breadcrumb {
+  margin-bottom: 15px;
+  font-size: 12px;
+}
+.el-card {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important;
+}
+@font-face {
+  font-family: "iconfont"; /* Project id 2697627 */
+  src: url('//at.alicdn.com/t/font_2697627_fg09358yc6l.woff2?t=1627110784511') format('woff2'),
+       url('//at.alicdn.com/t/font_2697627_fg09358yc6l.woff?t=1627110784511') format('woff'),
+       url('//at.alicdn.com/t/font_2697627_fg09358yc6l.ttf?t=1627110784511') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-yonghu:before {
+  content: "\e652";
+}
+
+.icon-zhangshangcaifuyemianshoujiban345:before {
+  content: "\e632";
+}
+
+.icon-shujutongji:before {
+  content: "\e60a";
+}
+
+.icon-dingdanguanli:before {
+  content: "\e609";
+}
+
+.icon-shangpinguanli:before {
+  content: "\e611";
+}
+.el-table {
+  margin-top: 15px;
+}
+
+.el-pagination {
+  margin-top: 15px;
+}

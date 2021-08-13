@@ -9,12 +9,14 @@
 export default {
   name: 'app',
   components: {
+
   }
 }
 </script>
 
 <style>
-#app {
 
+#app {
+  
 }
 </style>
